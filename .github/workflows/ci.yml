@@ -30,4 +30,4 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: remark-lint-report
-        path: public/
+        path: remark-lint-report.json
